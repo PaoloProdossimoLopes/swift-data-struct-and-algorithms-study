@@ -1,9 +1,19 @@
-#  TITLE
-DESCRIPTION ...
+#  DATA STRUCT AND ALGORITHMS STUDY
+This repo contains some structs learned when I study about data struct and algorithms, see some structs bellow:
+- [ ] Stack
+- [ ] Linked list
+- [ ] Queues
+- [ ] Tress
+- [ ] Tries
+- [ ] AVL trees
+- [ ] Heap
+- [ ] Priority Queue
 
+<!--
 ## 🧰 Example:
 ```swift
 ```
+-->
 
 ## ℹ️  GETTING STARTED
 ### PREREQUISITES 
@@ -14,7 +24,7 @@ DESCRIPTION ...
 1. Open your terminal in location that you want save the project.
 2. Clone the repo in this local.
 ```sh
-git clone https://github.com/PaoloProdossimoLopes/repository-template.git
+git clone https://github.com/PaoloProdossimoLopes/swift-data-struct-and-algorithms-study.git
 ```
 3. Open the file with extension .xcodeproj inside the folder project.
    
