@@ -1,7 +1,8 @@
 #  DATA STRUCT AND ALGORITHMS STUDY
 This repo contains some structs learned when I study about data struct and algorithms, see some structs bellow:
 - [ ] Stack
-- [ ] Linked list
+- [x] Node
+- [x] Linked list
 - [ ] Queues
 - [ ] Tress
 - [ ] Tries
